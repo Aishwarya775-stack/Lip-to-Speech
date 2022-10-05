@@ -1,0 +1,2 @@
+# Lip-to-Speech
+we explore the problem of lip to speech synthesis from a unique perspective. We take inspiration from the fact that deaf individuals or professional lip readers find it easier to lip read people who they frequently interact with. Thus, rather than attempting lip to speech on random speakers in the wild, we focus on learning speech patterns of a specific speaker by simply observing the person’s speech for an extended period
